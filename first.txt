@@ -1,2 +1,18 @@
 Hi is edited here.
+<<<<<<< Updated upstream
 This is added in main branch of remote repo.
+=======
+In Feature branch added this.
+this line is edited in feature branch of remote repo
+1
+1
+1
+2
+3
+4
+5
+
+22
+33
+44
+>>>>>>> Stashed changes
